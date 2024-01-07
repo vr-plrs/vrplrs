@@ -1,0 +1,5 @@
+cor 01 = #FFFF77
+cor 02 = #FFFF00
+cor 03 = #FFE903
+cor 04 = #FFA233
+cor 05 = #4F4F00
